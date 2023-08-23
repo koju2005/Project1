@@ -1,0 +1,15 @@
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.exe
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.deps.json
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.runtimeconfig.json
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.dll
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\bin\Debug\net6.0\ConsoleApp11.pdb
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.AssemblyReference.cache
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfoInputs.cache
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.AssemblyInfo.cs
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.dll
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\refint\ConsoleApp11.dll
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.pdb
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ConsoleApp11.genruntimeconfig.cache
+D:\DriveStorage\ConsoleApp11\ConsoleApp11\obj\Debug\net6.0\ref\ConsoleApp11.dll
